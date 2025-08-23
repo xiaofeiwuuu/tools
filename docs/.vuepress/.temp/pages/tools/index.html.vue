@@ -1,0 +1,174 @@
+<template><div><p>收集整理的常用开发工具、组件库、设计资源等链接。</p>
+<h2 id="前端-ui-组件库" tabindex="-1"><a class="header-anchor" href="#前端-ui-组件库"><span>前端 UI 组件库</span></a></h2>
+<p>查看完整的前端 UI 组件库列表，请访问 <VPLink href="/tools/ui-components/">前端 UI 组件库大全</VPLink></p>
+<p>包含：</p>
+<ul>
+<li>Vue UI 组件库（Element Plus、Naive UI、Ant Design Vue 等）</li>
+<li>React UI 组件库（Ant Design、Material-UI、Chakra UI 等）</li>
+<li>移动端组件库（Vant、NutUI、Ant Design Mobile 等）</li>
+<li>小程序组件库（WeUI、ColorUI、Taro UI 等）</li>
+<li>CSS 框架（Bootstrap、Tailwind CSS、Bulma 等）</li>
+</ul>
+<hr>
+<h2 id="设计资源" tabindex="-1"><a class="header-anchor" href="#设计资源"><span>设计资源</span></a></h2>
+<h3 id="色彩与图标" tabindex="-1"><a class="header-anchor" href="#色彩与图标"><span>色彩与图标</span></a></h3>
+<ul>
+<li><a href="https://colors.ichuantong.cn/" target="_blank" rel="noopener noreferrer">中国传统颜色手册</a> - 中国传统色彩参考</li>
+<li><a href="https://www.iconfont.cn/" target="_blank" rel="noopener noreferrer">阿里巴巴矢量图标库</a> - 丰富的图标资源</li>
+<li><a href="https://fonts.google.com/icons" target="_blank" rel="noopener noreferrer">Google Icons</a> - Material Design 图标</li>
+</ul>
+<h3 id="设计灵感" tabindex="-1"><a class="header-anchor" href="#设计灵感"><span>设计灵感</span></a></h3>
+<ul>
+<li><a href="https://kentatoshikura.com/" target="_blank" rel="noopener noreferrer">Kenta Toshikura Portfolio</a> - 炫酷动画网站示例</li>
+<li><a href="https://www.david-hckh.com/" target="_blank" rel="noopener noreferrer">David HCKH</a> - 3D 创意网站</li>
+<li><a href="https://www.checklist.design/" target="_blank" rel="noopener noreferrer">设计清单</a> - 设计项目检查清单</li>
+</ul>
+<hr>
+<h2 id="ai-工具" tabindex="-1"><a class="header-anchor" href="#ai-工具"><span>AI 工具</span></a></h2>
+<ul>
+<li><a href="https://chatgpt.com/" target="_blank" rel="noopener noreferrer">ChatGPT</a> - OpenAI 聊天机器人</li>
+<li><a href="https://chat.deepseek.com/" target="_blank" rel="noopener noreferrer">DeepSeek</a> - 深度求索 AI</li>
+<li><a href="https://www.perplexity.ai/" target="_blank" rel="noopener noreferrer">Perplexity</a> - AI 搜索引擎</li>
+<li><a href="https://bolt.new/" target="_blank" rel="noopener noreferrer">Bolt</a> - AI 网站构建工具</li>
+<li><a href="https://copycoder.ai/" target="_blank" rel="noopener noreferrer">CopyCoder</a> - 网页代码复制 AI</li>
+</ul>
+<hr>
+<h2 id="开发文档" tabindex="-1"><a class="header-anchor" href="#开发文档"><span>开发文档</span></a></h2>
+<h3 id="前端框架" tabindex="-1"><a class="header-anchor" href="#前端框架"><span>前端框架</span></a></h3>
+<ul>
+<li><a href="https://www.runoob.com/" target="_blank" rel="noopener noreferrer">菜鸟教程</a> - 编程入门教程网站，涵盖前后端各种语言</li>
+<li><a href="https://cn.vuejs.org/" target="_blank" rel="noopener noreferrer">Vue.js 官方文档</a> - Vue 3 中文官方文档</li>
+<li><a href="https://v2.cn.vuejs.org/" target="_blank" rel="noopener noreferrer">Vue 2 文档</a> - Vue 2 中文官方文档（维护模式）</li>
+<li><a href="https://zh-hans.react.dev/" target="_blank" rel="noopener noreferrer">React 官方文档</a> - React 中文官方文档</li>
+<li><a href="https://docs.flutter.cn/ui/layout/tutorial" target="_blank" rel="noopener noreferrer">Flutter 中文文档</a> - Flutter 官方中文教程</li>
+<li><a href="https://book.flutterchina.club/" target="_blank" rel="noopener noreferrer">Flutter 实战</a> - Flutter 中文社区教程</li>
+<li><a href="https://uniapp.dcloud.net.cn/tutorial/" target="_blank" rel="noopener noreferrer">uni-app 文档</a> - 跨平台应用框架</li>
+</ul>
+<h3 id="开发工具" tabindex="-1"><a class="header-anchor" href="#开发工具"><span>开发工具</span></a></h3>
+<ul>
+<li><a href="https://code.visualstudio.com/docs" target="_blank" rel="noopener noreferrer">VSCode 官方文档</a> - Visual Studio Code 官方文档</li>
+<li><a href="https://marketplace.visualstudio.com/vscode" target="_blank" rel="noopener noreferrer">VSCode 插件市场</a> - VSCode 扩展插件市场</li>
+<li><a href="https://vscode.cool/" target="_blank" rel="noopener noreferrer">VSCode 中文文档</a> - VSCode 中文社区文档</li>
+</ul>
+<h3 id="vscode-实用插件" tabindex="-1"><a class="header-anchor" href="#vscode-实用插件"><span>VSCode 实用插件</span></a></h3>
+<ul>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=AEStudio.tailwind-skeleton-generator" target="_blank" rel="noopener noreferrer">Tailwind Skeleton Generator</a> - 快速生成 Tailwind CSS 骨架屏组件</li>
+</ul>
+<h3 id="小程序开发" tabindex="-1"><a class="header-anchor" href="#小程序开发"><span>小程序开发</span></a></h3>
+<ul>
+<li><a href="https://developers.weixin.qq.com/miniprogram/dev/component/" target="_blank" rel="noopener noreferrer">微信小程序文档</a> - 官方开发文档</li>
+<li><a href="https://mp.weixin.qq.com/" target="_blank" rel="noopener noreferrer">微信公众平台</a> - 公众号管理平台</li>
+<li><a href="https://core.telegram.org/bots/api#loginurl" target="_blank" rel="noopener noreferrer">Telegram Bot API</a> - Telegram 机器人 API</li>
+</ul>
+<hr>
+<h2 id="实用工具" tabindex="-1"><a class="header-anchor" href="#实用工具"><span>实用工具</span></a></h2>
+<h3 id="在线工具" tabindex="-1"><a class="header-anchor" href="#在线工具"><span>在线工具</span></a></h3>
+<ul>
+<li><a href="https://www.bejson.com/" target="_blank" rel="noopener noreferrer">BeJSON</a> - JSON 格式化、加解密等工具集</li>
+<li><a href="https://tinypng.com/" target="_blank" rel="noopener noreferrer">TinyPNG</a> - 图片压缩工具</li>
+<li><a href="https://openyyy.com/" target="_blank" rel="noopener noreferrer">OpenYYY</a> - 音频格式转换</li>
+<li><a href="https://translate.google.com/?hl=zh-cn&amp;sl=en&amp;tl=zh-CN&amp;op=translate" target="_blank" rel="noopener noreferrer">Google 翻译</a> - 在线翻译</li>
+</ul>
+<h3 id="代码仓库" tabindex="-1"><a class="header-anchor" href="#代码仓库"><span>代码仓库</span></a></h3>
+<ul>
+<li><a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub</a> - 全球最大的代码托管平台</li>
+<li><a href="https://gitee.com/" target="_blank" rel="noopener noreferrer">Gitee</a> - 码云，国内代码托管平台</li>
+</ul>
+<hr>
+<h2 id="前端可视化-数据图表" tabindex="-1"><a class="header-anchor" href="#前端可视化-数据图表"><span>前端可视化 / 数据图表</span></a></h2>
+<p>适合做数据展示、交互效果</p>
+<ul>
+<li><a href="https://echarts.apache.org/zh/index.html" target="_blank" rel="noopener noreferrer">ECharts</a> - 百度开源的可视化图表库</li>
+<li><a href="https://d3js.org/" target="_blank" rel="noopener noreferrer">D3.js</a> - 强大的数据驱动可视化库</li>
+<li><a href="https://www.chartjs.org/" target="_blank" rel="noopener noreferrer">Chart.js</a> - 简单易用的图表库</li>
+<li><a href="https://threejs.org/" target="_blank" rel="noopener noreferrer">Three.js</a> - 3D WebGL 渲染库</li>
+<li><a href="https://l7.antv.vision/zh" target="_blank" rel="noopener noreferrer">L7</a> - 地理可视化地图框架（蚂蚁金服）</li>
+</ul>
+<hr>
+<h2 id="前端动画-动效库" tabindex="-1"><a class="header-anchor" href="#前端动画-动效库"><span>前端动画 / 动效库</span></a></h2>
+<p>适合丰富网页视觉体验和交互效果</p>
+<h3 id="动画库" tabindex="-1"><a class="header-anchor" href="#动画库"><span>动画库</span></a></h3>
+<ul>
+<li><a href="https://greensock.com/" target="_blank" rel="noopener noreferrer">GSAP</a> - 高性能动画库，业界标准</li>
+<li><a href="https://animejs.com/" target="_blank" rel="noopener noreferrer">Anime.js</a> - 轻量级多功能动画库</li>
+<li><a href="http://velocityjs.org/" target="_blank" rel="noopener noreferrer">Velocity.js</a> - 高性能动画引擎，兼容 jQuery</li>
+<li><a href="https://airbnb.design/lottie/" target="_blank" rel="noopener noreferrer">Lottie</a> - Airbnb 出品，支持 AE 动画</li>
+<li><a href="https://popmotion.io/" target="_blank" rel="noopener noreferrer">Popmotion</a> - 函数式动画库</li>
+<li><a href="https://mojs.github.io/" target="_blank" rel="noopener noreferrer">Mo.js</a> - 运动图形动画库</li>
+<li><a href="https://mattboldt.com/demos/typed-js/" target="_blank" rel="noopener noreferrer">Typed.js</a> - 打字机效果动画</li>
+<li><a href="https://anijs.github.io/" target="_blank" rel="noopener noreferrer">AniJS</a> - 声明式动画库，无需 JS 代码</li>
+<li><a href="https://www.framer.com/motion/" target="_blank" rel="noopener noreferrer">Framer Motion</a> - React 动画库（也有纯 JS 玩法）</li>
+<li><a href="https://scrollmagic.io/" target="_blank" rel="noopener noreferrer">ScrollMagic</a> - 滚动交互动画库</li>
+<li><a href="https://motion.dev/" target="_blank" rel="noopener noreferrer">Motion One</a> - 新一代轻量级动画库</li>
+<li><a href="https://ianlunn.github.io/Hover/" target="_blank" rel="noopener noreferrer">Hover.css</a> - CSS 悬停特效合集</li>
+<li><a href="https://scrollrevealjs.org/" target="_blank" rel="noopener noreferrer">ScrollReveal</a> - 滚动触发动画</li>
+</ul>
+<h3 id="动画资源与工具" tabindex="-1"><a class="header-anchor" href="#动画资源与工具"><span>动画资源与工具</span></a></h3>
+<ul>
+<li><a href="https://examples.motion.dev/" target="_blank" rel="noopener noreferrer">Motion Examples</a> - Vue/JS 动画示例</li>
+<li><a href="https://animista.net/" target="_blank" rel="noopener noreferrer">Animista</a> - CSS 动画生成器</li>
+<li><a href="https://app.lottiefiles.com/" target="_blank" rel="noopener noreferrer">Lottie Files</a> - Lottie 动画资源库</li>
+<li><a href="https://inspira-ui.com/" target="_blank" rel="noopener noreferrer">Inspira UI</a> - 炫酷动画组件</li>
+<li><a href="https://github.com/hepengwei/visualization-collection" target="_blank" rel="noopener noreferrer">Visualization Collection (React)</a> - 前端视觉效果集合，100+ 案例</li>
+<li><a href="https://github.com/hepengwei/visualization-collection-vue" target="_blank" rel="noopener noreferrer">Visualization Collection (Vue)</a> - Vue 版本视觉效果集合</li>
+</ul>
+<hr>
+<h2 id="在线代码编辑-预览" tabindex="-1"><a class="header-anchor" href="#在线代码编辑-预览"><span>在线代码编辑 / 预览</span></a></h2>
+<p>方便调试和分享代码</p>
+<ul>
+<li><a href="https://codepen.io/" target="_blank" rel="noopener noreferrer">CodePen</a> - 前端在线编辑器</li>
+<li><a href="https://jsfiddle.net/" target="_blank" rel="noopener noreferrer">JSFiddle</a> - 在线运行 HTML/CSS/JS</li>
+<li><a href="https://stackblitz.com/" target="_blank" rel="noopener noreferrer">StackBlitz</a> - 在线开发 Vue、React、Angular</li>
+<li><a href="https://codesandbox.io/" target="_blank" rel="noopener noreferrer">CodeSandbox</a> - 云端代码沙箱</li>
+<li><a href="https://playcode.io/" target="_blank" rel="noopener noreferrer">PlayCode</a> - 即时预览的前端编辑器</li>
+</ul>
+<hr>
+<h2 id="前端性能优化-测试工具" tabindex="-1"><a class="header-anchor" href="#前端性能优化-测试工具"><span>前端性能优化 / 测试工具</span></a></h2>
+<p>让网站更快更稳定</p>
+<ul>
+<li><a href="https://developer.chrome.com/docs/lighthouse/overview" target="_blank" rel="noopener noreferrer">Lighthouse</a> - Google 网站性能分析</li>
+<li><a href="https://pagespeed.web.dev/" target="_blank" rel="noopener noreferrer">PageSpeed Insights</a> - 网站速度测试</li>
+<li><a href="https://www.webpagetest.org/" target="_blank" rel="noopener noreferrer">WebPageTest</a> - 详细网站加载分析</li>
+<li><a href="https://gtmetrix.com/" target="_blank" rel="noopener noreferrer">GTmetrix</a> - 性能与优化建议</li>
+<li><a href="https://bundlephobia.com/" target="_blank" rel="noopener noreferrer">Bundlephobia</a> - NPM 包体积分析</li>
+</ul>
+<hr>
+<h2 id="前端素材-模板" tabindex="-1"><a class="header-anchor" href="#前端素材-模板"><span>前端素材 / 模板</span></a></h2>
+<p>加快开发效率</p>
+<ul>
+<li><a href="https://htmlrev.com" target="_blank" rel="noopener noreferrer">HTMLrev</a> - 网页模板大全，海量免费模板资源</li>
+<li><a href="https://html5up.net/" target="_blank" rel="noopener noreferrer">HTML5 UP</a> - 免费 HTML 模板</li>
+<li><a href="https://tailwindui.com/" target="_blank" rel="noopener noreferrer">Tailwind UI</a> - Tailwind 官方付费模板</li>
+<li><a href="https://bootstrapmade.com/" target="_blank" rel="noopener noreferrer">BootstrapMade</a> - 免费 Bootstrap 模板</li>
+<li><a href="https://getuikit.com/" target="_blank" rel="noopener noreferrer">UI Kit</a> - 轻量化 UI 框架</li>
+<li><a href="https://www.freepik.com/" target="_blank" rel="noopener noreferrer">Freepik</a> - 设计素材库</li>
+</ul>
+<hr>
+<h2 id="api-后端相关工具" tabindex="-1"><a class="header-anchor" href="#api-后端相关工具"><span>API / 后端相关工具</span></a></h2>
+<p>方便前端联调和数据测试</p>
+<ul>
+<li><a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">Postman</a> - API 调试工具</li>
+<li><a href="https://hoppscotch.io/" target="_blank" rel="noopener noreferrer">Hoppscotch</a> - 开源 API 请求工具</li>
+<li><a href="https://mocky.io/" target="_blank" rel="noopener noreferrer">Mocky</a> - 在线生成 Mock API</li>
+<li><a href="https://jsonplaceholder.typicode.com/" target="_blank" rel="noopener noreferrer">JSONPlaceholder</a> - 免费假数据 API</li>
+</ul>
+<hr>
+<h2 id="后台管理系统" tabindex="-1"><a class="header-anchor" href="#后台管理系统"><span>后台管理系统</span></a></h2>
+<ul>
+<li><a href="https://doc.vben.pro/" target="_blank" rel="noopener noreferrer">Vben Admin</a> - 基于 Vue3 的后台管理系统</li>
+<li><a href="http://vue.easydo.work/" target="_blank" rel="noopener noreferrer">Vue Admin 大全</a> - Vue 后台管理系统集合</li>
+</ul>
+<hr>
+<h2 id="npm-包推荐" tabindex="-1"><a class="header-anchor" href="#npm-包推荐"><span>NPM 包推荐</span></a></h2>
+<p>查看完整的 NPM 包推荐列表，请访问 <VPLink href="/tools/npm-packages/">NPM 包推荐与包管理工具</VPLink></p>
+<p>包含：</p>
+<ul>
+<li>包管理工具详解（npm、pnpm、yarn、npx、nvm 等）</li>
+<li>实用工具库（日期处理、动画、拖拽、图表等）</li>
+<li>开发工具（构建工具、代码质量、测试工具等）</li>
+<li>Vue/React 生态包推荐</li>
+</ul>
+<hr>
+</div></template>
+
+

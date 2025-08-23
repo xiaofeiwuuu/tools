@@ -1,0 +1,496 @@
+<template><div><p>收集整理的各类前端 UI 组件库，包括 Vue、React 等框架的组件库。</p>
+<h2 id="vue-ui-组件库" tabindex="-1"><a class="header-anchor" href="#vue-ui-组件库"><span>Vue UI 组件库</span></a></h2>
+<h3 id="通用-ui-组件库-pc-后台管理" tabindex="-1"><a class="header-anchor" href="#通用-ui-组件库-pc-后台管理"><span>通用 UI 组件库（PC/后台管理）</span></a></h3>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>官网</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Element Plus</strong></td>
+<td><a href="https://element-plus.org/" target="_blank" rel="noopener noreferrer">element-plus.org</a></td>
+<td>Vue3 版 Element UI，后台管理常用</td>
+</tr>
+<tr>
+<td><strong>Element UI</strong></td>
+<td><a href="https://element.eleme.io/" target="_blank" rel="noopener noreferrer">element.eleme.io</a></td>
+<td>Vue2 版本，饿了么出品（维护模式）</td>
+</tr>
+<tr>
+<td><strong>Naive UI</strong></td>
+<td><a href="https://www.naiveui.com/" target="_blank" rel="noopener noreferrer">naiveui.com</a></td>
+<td>全 TypeScript、风格简洁、可定制性强</td>
+</tr>
+<tr>
+<td><strong>Arco Design Vue</strong></td>
+<td><a href="https://arco.design/vue" target="_blank" rel="noopener noreferrer">arco.design/vue</a></td>
+<td>字节跳动出品，企业风格</td>
+</tr>
+<tr>
+<td><strong>TDesign Vue</strong></td>
+<td><a href="https://tdesign.tencent.com/vue" target="_blank" rel="noopener noreferrer">tdesign.tencent.com/vue</a></td>
+<td>腾讯出品，Vue2 &amp; Vue3 都有</td>
+</tr>
+<tr>
+<td><strong>Ant Design Vue</strong></td>
+<td><a href="https://antdv.com/" target="_blank" rel="noopener noreferrer">antdv.com</a></td>
+<td>企业级 UI 设计语言和组件库</td>
+</tr>
+<tr>
+<td><strong>Vuetify</strong></td>
+<td><a href="https://vuetifyjs.com/" target="_blank" rel="noopener noreferrer">vuetifyjs.com</a></td>
+<td>Material Design 风格，成熟稳定</td>
+</tr>
+<tr>
+<td><strong>View UI Plus</strong></td>
+<td><a href="https://www.iviewui.com/" target="_blank" rel="noopener noreferrer">iviewui.com</a></td>
+<td>基于 Vue3 的企业级 UI 组件库</td>
+</tr>
+</tbody>
+</table>
+<h3 id="移动端优先" tabindex="-1"><a class="header-anchor" href="#移动端优先"><span>移动端优先</span></a></h3>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>官网</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Vant</strong></td>
+<td><a href="https://vant-ui.github.io/vant" target="_blank" rel="noopener noreferrer">vant-ui.github.io</a></td>
+<td>有 Vue2 和 Vue3 版本，小程序支持</td>
+</tr>
+<tr>
+<td><strong>Varlet</strong></td>
+<td><a href="https://varlet.dev/" target="_blank" rel="noopener noreferrer">varlet.dev</a></td>
+<td>Material Design 风格的 Vue3 移动端组件库</td>
+</tr>
+<tr>
+<td><strong>NutUI</strong></td>
+<td><a href="https://nutui.jd.com/" target="_blank" rel="noopener noreferrer">nutui.jd.com</a></td>
+<td>京东出品，移动端专注</td>
+</tr>
+<tr>
+<td><strong>Mand Mobile</strong></td>
+<td><a href="https://mand-mobile.github.io/" target="_blank" rel="noopener noreferrer">mand-mobile.github.io</a></td>
+<td>蚂蚁金服早期移动端组件库（Vue2）</td>
+</tr>
+<tr>
+<td><strong>uView</strong></td>
+<td><a href="https://www.uviewui.com/" target="_blank" rel="noopener noreferrer">uviewui.com</a></td>
+<td>uni-app UI 组件库</td>
+</tr>
+<tr>
+<td><strong>Wot Design Uni</strong></td>
+<td><a href="https://wot-design-uni.github.io/" target="_blank" rel="noopener noreferrer">wot-design-uni.github.io</a></td>
+<td>基于 Vue3+TS 的 uni-app 组件库</td>
+</tr>
+<tr>
+<td><strong>Quasar Framework</strong></td>
+<td><a href="https://quasar.dev/" target="_blank" rel="noopener noreferrer">quasar.dev</a></td>
+<td>一套代码可打包 H5、App、桌面端</td>
+</tr>
+</tbody>
+</table>
+<h3 id="基于-tailwind-css-的-ui-库" tabindex="-1"><a class="header-anchor" href="#基于-tailwind-css-的-ui-库"><span>基于 Tailwind CSS 的 UI 库</span></a></h3>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>官网</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>shadcn/ui</strong></td>
+<td><a href="https://ui.shadcn.com/" target="_blank" rel="noopener noreferrer">ui.shadcn.com</a></td>
+<td>现代化可复制粘贴组件库</td>
+</tr>
+<tr>
+<td><strong>DaisyUI</strong></td>
+<td><a href="https://daisyui.com/" target="_blank" rel="noopener noreferrer">daisyui.com</a></td>
+<td>基于 Tailwind CSS 的主题化 UI 组件</td>
+</tr>
+<tr>
+<td><strong>Flowbite</strong></td>
+<td><a href="https://flowbite.com/" target="_blank" rel="noopener noreferrer">flowbite.com</a></td>
+<td>基于 Tailwind CSS 的组件库</td>
+</tr>
+<tr>
+<td><strong>Headless UI</strong></td>
+<td><a href="https://headlessui.com/" target="_blank" rel="noopener noreferrer">headlessui.com</a></td>
+<td>无样式、可访问的 UI 组件</td>
+</tr>
+<tr>
+<td><strong>Radix UI</strong></td>
+<td><a href="https://www.radix-ui.com/" target="_blank" rel="noopener noreferrer">radix-ui.com</a></td>
+<td>低级别、无样式、可访问的组件</td>
+</tr>
+<tr>
+<td><strong>Windicss + Vue</strong></td>
+<td><a href="https://windicss.org/integrations/vue.html" target="_blank" rel="noopener noreferrer">windicss.org</a></td>
+<td>原子化 CSS + Vue</td>
+</tr>
+<tr>
+<td><strong>UnoCSS</strong></td>
+<td><a href="https://uno.antfu.me/" target="_blank" rel="noopener noreferrer">uno.antfu.me</a></td>
+<td>下一代原子化 CSS，和 Vue 深度结合</td>
+</tr>
+</tbody>
+</table>
+<h3 id="创意-特殊风格-ui-库" tabindex="-1"><a class="header-anchor" href="#创意-特殊风格-ui-库"><span>创意/特殊风格 UI 库</span></a></h3>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>官网</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>UIverse</strong></td>
+<td><a href="https://uiverse.io/" target="_blank" rel="noopener noreferrer">uiverse.io</a></td>
+<td>社区驱动的 UI 组件集合</td>
+</tr>
+<tr>
+<td><strong>Magic UI</strong></td>
+<td><a href="https://magicui.design/" target="_blank" rel="noopener noreferrer">magicui.design</a></td>
+<td>现代化动画组件库</td>
+</tr>
+<tr>
+<td><strong>Wired Elements</strong></td>
+<td><a href="https://wiredjs.com/" target="_blank" rel="noopener noreferrer">wiredjs.com</a></td>
+<td>手绘风格的 UI 组件库</td>
+</tr>
+<tr>
+<td><strong>Vue Bits</strong></td>
+<td><a href="https://vue-bits.dev/" target="_blank" rel="noopener noreferrer">vue-bits.dev</a></td>
+<td>炫酷的 Vue 动画组件集合</td>
+</tr>
+<tr>
+<td><strong>BalmUI</strong></td>
+<td><a href="https://material.balmjs.com/" target="_blank" rel="noopener noreferrer">material.balmjs.com</a></td>
+<td>Material Design 风格，Vue3 支持</td>
+</tr>
+<tr>
+<td><strong>Oruga UI</strong></td>
+<td><a href="https://oruga.io/" target="_blank" rel="noopener noreferrer">oruga.io</a></td>
+<td>无样式，可自定义主题</td>
+</tr>
+<tr>
+<td><strong>PrimeVue</strong></td>
+<td><a href="https://primevue.org/" target="_blank" rel="noopener noreferrer">primevue.org</a></td>
+<td>功能丰富，包含 DataTable、日历、图表等</td>
+</tr>
+</tbody>
+</table>
+<h3 id="功能型-场景型组件库" tabindex="-1"><a class="header-anchor" href="#功能型-场景型组件库"><span>功能型/场景型组件库</span></a></h3>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>官网</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>VueUse</strong></td>
+<td><a href="https://vueuse.org/zh/" target="_blank" rel="noopener noreferrer">vueuse.org/zh</a></td>
+<td>Vue Composition API 工具集</td>
+</tr>
+<tr>
+<td><strong>Vue Chartkick</strong></td>
+<td><a href="https://chartkick.com/vue" target="_blank" rel="noopener noreferrer">chartkick.com/vue</a></td>
+<td>简单封装的图表库</td>
+</tr>
+<tr>
+<td><strong>Vue-ECharts</strong></td>
+<td><a href="https://github.com/ecomfe/vue-echarts" target="_blank" rel="noopener noreferrer">github.com/ecomfe/vue-echarts</a></td>
+<td>ECharts 的 Vue 封装</td>
+</tr>
+<tr>
+<td><strong>Vue Grid Layout</strong></td>
+<td><a href="https://jbaysolutions.github.io/vue-grid-layout/" target="_blank" rel="noopener noreferrer">jbaysolutions.github.io/vue-grid-layout</a></td>
+<td>拖拽式网格布局</td>
+</tr>
+<tr>
+<td><strong>Vue Draggable</strong></td>
+<td><a href="https://github.com/SortableJS/Vue.Draggable" target="_blank" rel="noopener noreferrer">github.com/SortableJS/Vue.Draggable</a></td>
+<td>基于 SortableJS 的拖拽排序</td>
+</tr>
+</tbody>
+</table>
+<h3 id="其他-vue-生态" tabindex="-1"><a class="header-anchor" href="#其他-vue-生态"><span>其他 Vue 生态</span></a></h3>
+<ul>
+<li><a href="https://madewithvuejs.com/" target="_blank" rel="noopener noreferrer">Vue 相关工具组件</a> - Vue 生态系统的各种工具和组件</li>
+</ul>
+<hr>
+<h2 id="react-ui-组件库" tabindex="-1"><a class="header-anchor" href="#react-ui-组件库"><span>React UI 组件库</span></a></h2>
+<h3 id="企业级组件库" tabindex="-1"><a class="header-anchor" href="#企业级组件库"><span>企业级组件库</span></a></h3>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>官网</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Ant Design</strong></td>
+<td><a href="https://ant.design/" target="_blank" rel="noopener noreferrer">ant.design</a></td>
+<td>蚂蚁金服出品，企业级 UI 设计语言</td>
+</tr>
+<tr>
+<td><strong>Material-UI (MUI)</strong></td>
+<td><a href="https://mui.com/" target="_blank" rel="noopener noreferrer">mui.com</a></td>
+<td>Google Material Design 风格</td>
+</tr>
+<tr>
+<td><strong>Chakra UI</strong></td>
+<td><a href="https://chakra-ui.com/" target="_blank" rel="noopener noreferrer">chakra-ui.com</a></td>
+<td>简单、模块化、可访问的组件库</td>
+</tr>
+<tr>
+<td><strong>Mantine</strong></td>
+<td><a href="https://mantine.dev/" target="_blank" rel="noopener noreferrer">mantine.dev</a></td>
+<td>全功能 React 组件库，包含 100+ 组件</td>
+</tr>
+<tr>
+<td><strong>NextUI</strong></td>
+<td><a href="https://nextui.org/" target="_blank" rel="noopener noreferrer">nextui.org</a></td>
+<td>现代化、快速、美观的 React UI 库</td>
+</tr>
+<tr>
+<td><strong>Arco Design</strong></td>
+<td><a href="https://arco.design/" target="_blank" rel="noopener noreferrer">arco.design</a></td>
+<td>字节跳动出品，支持 React</td>
+</tr>
+<tr>
+<td><strong>Semi Design</strong></td>
+<td><a href="https://semi.design/" target="_blank" rel="noopener noreferrer">semi.design</a></td>
+<td>抖音团队出品</td>
+</tr>
+</tbody>
+</table>
+<h3 id="移动端-react-组件库" tabindex="-1"><a class="header-anchor" href="#移动端-react-组件库"><span>移动端 React 组件库</span></a></h3>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>官网</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Ant Design Mobile</strong></td>
+<td><a href="https://mobile.ant.design/" target="_blank" rel="noopener noreferrer">mobile.ant.design</a></td>
+<td>Ant Design 移动端版本</td>
+</tr>
+<tr>
+<td><strong>React Vant</strong></td>
+<td><a href="https://react-vant.3lang.dev/" target="_blank" rel="noopener noreferrer">react-vant.3lang.dev</a></td>
+<td>Vant 的 React 版本</td>
+</tr>
+<tr>
+<td><strong>React Native Elements</strong></td>
+<td><a href="https://reactnativeelements.com/" target="_blank" rel="noopener noreferrer">reactnativeelements.com</a></td>
+<td>React Native 跨平台组件库</td>
+</tr>
+<tr>
+<td><strong>NativeBase</strong></td>
+<td><a href="https://nativebase.io/" target="_blank" rel="noopener noreferrer">nativebase.io</a></td>
+<td>移动端优先的组件库</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="angular-ui-组件库" tabindex="-1"><a class="header-anchor" href="#angular-ui-组件库"><span>Angular UI 组件库</span></a></h2>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>官网</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Angular Material</strong></td>
+<td><a href="https://material.angular.io/" target="_blank" rel="noopener noreferrer">material.angular.io</a></td>
+<td>Angular 官方 Material Design 组件库</td>
+</tr>
+<tr>
+<td><strong>NG-ZORRO</strong></td>
+<td><a href="https://ng.ant.design/" target="_blank" rel="noopener noreferrer">ng.ant.design</a></td>
+<td>Ant Design 的 Angular 版本</td>
+</tr>
+<tr>
+<td><strong>PrimeNG</strong></td>
+<td><a href="https://primeng.org/" target="_blank" rel="noopener noreferrer">primeng.org</a></td>
+<td>功能丰富的 Angular 组件库</td>
+</tr>
+<tr>
+<td><strong>Clarity Design</strong></td>
+<td><a href="https://clarity.design/" target="_blank" rel="noopener noreferrer">clarity.design</a></td>
+<td>VMware 出品的企业级 UI 框架</td>
+</tr>
+<tr>
+<td><strong>Nebular</strong></td>
+<td><a href="https://akveo.github.io/nebular/" target="_blank" rel="noopener noreferrer">akveo.github.io/nebular</a></td>
+<td>基于 Eva Design System 的 Angular UI 库</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="跨框架-原生组件库" tabindex="-1"><a class="header-anchor" href="#跨框架-原生组件库"><span>跨框架/原生组件库</span></a></h2>
+<h3 id="web-components" tabindex="-1"><a class="header-anchor" href="#web-components"><span>Web Components</span></a></h3>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>官网</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Shoelace</strong></td>
+<td><a href="https://shoelace.style/" target="_blank" rel="noopener noreferrer">shoelace.style</a></td>
+<td>基于 Web Components 的现代化组件库</td>
+</tr>
+<tr>
+<td><strong>Fast</strong></td>
+<td><a href="https://www.fast.design/" target="_blank" rel="noopener noreferrer">fast.design</a></td>
+<td>微软出品的 Web Components</td>
+</tr>
+<tr>
+<td><strong>Lit</strong></td>
+<td><a href="https://lit.dev/" target="_blank" rel="noopener noreferrer">lit.dev</a></td>
+<td>Google 的 Web Components 框架</td>
+</tr>
+</tbody>
+</table>
+<h3 id="css-框架" tabindex="-1"><a class="header-anchor" href="#css-框架"><span>CSS 框架</span></a></h3>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>官网</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Bootstrap</strong></td>
+<td><a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">getbootstrap.com</a></td>
+<td>最流行的 CSS 框架</td>
+</tr>
+<tr>
+<td><strong>Bulma</strong></td>
+<td><a href="https://bulma.io/" target="_blank" rel="noopener noreferrer">bulma.io</a></td>
+<td>基于 Flexbox 的现代 CSS 框架</td>
+</tr>
+<tr>
+<td><strong>Foundation</strong></td>
+<td><a href="https://get.foundation/" target="_blank" rel="noopener noreferrer">get.foundation</a></td>
+<td>响应式前端框架</td>
+</tr>
+<tr>
+<td><strong>Semantic UI</strong></td>
+<td><a href="https://semantic-ui.com/" target="_blank" rel="noopener noreferrer">semantic-ui.com</a></td>
+<td>人性化的 HTML</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="小程序组件库" tabindex="-1"><a class="header-anchor" href="#小程序组件库"><span>小程序组件库</span></a></h2>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>官网</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>WeUI</strong></td>
+<td><a href="https://weui.io/" target="_blank" rel="noopener noreferrer">weui.io</a></td>
+<td>微信官方设计的基础样式库</td>
+</tr>
+<tr>
+<td><strong>ColorUI</strong></td>
+<td><a href="https://github.com/weilanwl/ColorUI" target="_blank" rel="noopener noreferrer">github.com/weilanwl/ColorUI</a></td>
+<td>鲜亮的高饱和色彩主题</td>
+</tr>
+<tr>
+<td><strong>ThorUI</strong></td>
+<td><a href="https://thorui.cn/" target="_blank" rel="noopener noreferrer">thorui.cn</a></td>
+<td>轻量、简洁的移动端组件库</td>
+</tr>
+<tr>
+<td><strong>Vant Weapp</strong></td>
+<td><a href="https://vant-contrib.gitee.io/vant-weapp" target="_blank" rel="noopener noreferrer">vant-contrib.gitee.io/vant-weapp</a></td>
+<td>Vant 的小程序版本</td>
+</tr>
+<tr>
+<td><strong>iView Weapp</strong></td>
+<td><a href="https://weapp.iviewui.com/" target="_blank" rel="noopener noreferrer">weapp.iviewui.com</a></td>
+<td>高质量的微信小程序 UI 组件库</td>
+</tr>
+<tr>
+<td><strong>Taro UI</strong></td>
+<td><a href="https://taro-ui.jd.com/" target="_blank" rel="noopener noreferrer">taro-ui.jd.com</a></td>
+<td>基于 Taro 框架的多端 UI 组件库</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="选择建议" tabindex="-1"><a class="header-anchor" href="#选择建议"><span>选择建议</span></a></h2>
+<h3 id="企业后台管理系统" tabindex="-1"><a class="header-anchor" href="#企业后台管理系统"><span>企业后台管理系统</span></a></h3>
+<ul>
+<li><strong>Vue</strong>: Element Plus、Ant Design Vue、Arco Design Vue</li>
+<li><strong>React</strong>: Ant Design、Arco Design、Semi Design</li>
+</ul>
+<h3 id="移动端应用" tabindex="-1"><a class="header-anchor" href="#移动端应用"><span>移动端应用</span></a></h3>
+<ul>
+<li><strong>Vue</strong>: Vant、NutUI</li>
+<li><strong>React</strong>: Ant Design Mobile</li>
+<li><strong>跨平台</strong>: uni-app + uView、Taro + Taro UI</li>
+</ul>
+<h3 id="个人项目-快速原型" tabindex="-1"><a class="header-anchor" href="#个人项目-快速原型"><span>个人项目/快速原型</span></a></h3>
+<ul>
+<li><strong>Vue</strong>: Naive UI、Vuetify</li>
+<li><strong>React</strong>: Chakra UI、Mantine</li>
+<li><strong>CSS</strong>: Tailwind CSS + DaisyUI</li>
+</ul>
+<h3 id="设计风格需求" tabindex="-1"><a class="header-anchor" href="#设计风格需求"><span>设计风格需求</span></a></h3>
+<ul>
+<li><strong>Material Design</strong>: Vuetify (Vue)、MUI (React)</li>
+<li><strong>企业风格</strong>: Ant Design 系列</li>
+<li><strong>简约现代</strong>: Naive UI、Chakra UI</li>
+<li><strong>个性化</strong>: Wired Elements、Magic UI</li>
+</ul>
+<hr>
+<h2 id="相关资源" tabindex="-1"><a class="header-anchor" href="#相关资源"><span>相关资源</span></a></h2>
+<ul>
+<li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener noreferrer">Awesome Vue</a> - Vue 资源精选列表</li>
+<li><a href="https://github.com/enaqx/awesome-react" target="_blank" rel="noopener noreferrer">Awesome React</a> - React 资源精选列表</li>
+<li><a href="https://www.npmtrends.com/" target="_blank" rel="noopener noreferrer">UI 组件库对比</a> - NPM 下载趋势对比</li>
+<li><a href="https://bundlephobia.com/" target="_blank" rel="noopener noreferrer">组件库性能对比</a> - 包大小分析工具</li>
+</ul>
+</div></template>
+
+

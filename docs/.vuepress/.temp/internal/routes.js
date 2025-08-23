@@ -1,0 +1,39 @@
+export const redirects = JSON.parse("{\"/preview/custom-component.example.html\":\"/article/uqjrxi8e/\",\"/preview/markdown.html\":\"/article/u59hp970/\",\"/tools/css-animations.html\":\"/tools/css-animations/\",\"/tools/npm-packages.html\":\"/tools/npm-packages/\",\"/tools/ui-components.html\":\"/tools/ui-components/\",\"/tools/vscode-extensions.html\":\"/tools/vscode-extensions/\",\"/notes/demo/\":\"/demo/\",\"/notes/demo/bar.html\":\"/demo/8gvvgsf3/\",\"/notes/demo/foo.html\":\"/demo/x6b6ts7c/\",\"/notes/tools/ai-tools.html\":\"/article/o95onag2/\",\"/notes/tools/image-tools.html\":\"/article/fkjjus3q/\",\"/notes/tools/office-tools.html\":\"/article/digbp35a/\",\"/notes/tools/resource-download.html\":\"/article/c51m69sd/\",\"/notes/tools/video-tools.html\":\"/article/z8gdwkee/\"}")
+
+export const routes = Object.fromEntries([
+  ["/", { loader: () => import(/* webpackChunkName: "index.html" */"/Users/xiaofeiwu/Documents/my-test/my-tools/docs/.vuepress/.temp/pages/index.html.js"), meta: {"title":""} }],
+  ["/article/uqjrxi8e/", { loader: () => import(/* webpackChunkName: "article_uqjrxi8e_index.html" */"/Users/xiaofeiwu/Documents/my-test/my-tools/docs/.vuepress/.temp/pages/article/uqjrxi8e/index.html.js"), meta: {"title":"自定义组件"} }],
+  ["/article/u59hp970/", { loader: () => import(/* webpackChunkName: "article_u59hp970_index.html" */"/Users/xiaofeiwu/Documents/my-test/my-tools/docs/.vuepress/.temp/pages/article/u59hp970/index.html.js"), meta: {"title":"Markdown"} }],
+  ["/tools/css-animations/", { loader: () => import(/* webpackChunkName: "tools_css-animations_index.html" */"/Users/xiaofeiwu/Documents/my-test/my-tools/docs/.vuepress/.temp/pages/tools/css-animations/index.html.js"), meta: {"title":"CSS 动画库大全"} }],
+  ["/tools/", { loader: () => import(/* webpackChunkName: "tools_index.html" */"/Users/xiaofeiwu/Documents/my-test/my-tools/docs/.vuepress/.temp/pages/tools/index.html.js"), meta: {"title":"开发工具资源"} }],
+  ["/tools/npm-packages/", { loader: () => import(/* webpackChunkName: "tools_npm-packages_index.html" */"/Users/xiaofeiwu/Documents/my-test/my-tools/docs/.vuepress/.temp/pages/tools/npm-packages/index.html.js"), meta: {"title":"NPM 包推荐与包管理工具"} }],
+  ["/tools/ui-components/", { loader: () => import(/* webpackChunkName: "tools_ui-components_index.html" */"/Users/xiaofeiwu/Documents/my-test/my-tools/docs/.vuepress/.temp/pages/tools/ui-components/index.html.js"), meta: {"title":"前端 UI 组件库"} }],
+  ["/tools/vscode-extensions/", { loader: () => import(/* webpackChunkName: "tools_vscode-extensions_index.html" */"/Users/xiaofeiwu/Documents/my-test/my-tools/docs/.vuepress/.temp/pages/tools/vscode-extensions/index.html.js"), meta: {"title":"VSCode 插件推荐"} }],
+  ["/demo/", { loader: () => import(/* webpackChunkName: "demo_index.html" */"/Users/xiaofeiwu/Documents/my-test/my-tools/docs/.vuepress/.temp/pages/demo/index.html.js"), meta: {"title":"Demo"} }],
+  ["/demo/8gvvgsf3/", { loader: () => import(/* webpackChunkName: "demo_8gvvgsf3_index.html" */"/Users/xiaofeiwu/Documents/my-test/my-tools/docs/.vuepress/.temp/pages/demo/8gvvgsf3/index.html.js"), meta: {"title":"bar"} }],
+  ["/demo/x6b6ts7c/", { loader: () => import(/* webpackChunkName: "demo_x6b6ts7c_index.html" */"/Users/xiaofeiwu/Documents/my-test/my-tools/docs/.vuepress/.temp/pages/demo/x6b6ts7c/index.html.js"), meta: {"title":"foo"} }],
+  ["/notes/tools/", { loader: () => import(/* webpackChunkName: "notes_tools_index.html" */"/Users/xiaofeiwu/Documents/my-test/my-tools/docs/.vuepress/.temp/pages/notes/tools/index.html.js"), meta: {"title":"工具集合导航"} }],
+  ["/article/o95onag2/", { loader: () => import(/* webpackChunkName: "article_o95onag2_index.html" */"/Users/xiaofeiwu/Documents/my-test/my-tools/docs/.vuepress/.temp/pages/article/o95onag2/index.html.js"), meta: {"title":"ai-tools"} }],
+  ["/article/fkjjus3q/", { loader: () => import(/* webpackChunkName: "article_fkjjus3q_index.html" */"/Users/xiaofeiwu/Documents/my-test/my-tools/docs/.vuepress/.temp/pages/article/fkjjus3q/index.html.js"), meta: {"title":"image-tools"} }],
+  ["/article/digbp35a/", { loader: () => import(/* webpackChunkName: "article_digbp35a_index.html" */"/Users/xiaofeiwu/Documents/my-test/my-tools/docs/.vuepress/.temp/pages/article/digbp35a/index.html.js"), meta: {"title":"office-tools"} }],
+  ["/article/c51m69sd/", { loader: () => import(/* webpackChunkName: "article_c51m69sd_index.html" */"/Users/xiaofeiwu/Documents/my-test/my-tools/docs/.vuepress/.temp/pages/article/c51m69sd/index.html.js"), meta: {"title":"resource-download"} }],
+  ["/article/z8gdwkee/", { loader: () => import(/* webpackChunkName: "article_z8gdwkee_index.html" */"/Users/xiaofeiwu/Documents/my-test/my-tools/docs/.vuepress/.temp/pages/article/z8gdwkee/index.html.js"), meta: {"title":"video-tools"} }],
+  ["/404.html", { loader: () => import(/* webpackChunkName: "404.html" */"/Users/xiaofeiwu/Documents/my-test/my-tools/docs/.vuepress/.temp/pages/404.html.js"), meta: {"title":""} }],
+]);
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updateRoutes) {
+    __VUE_HMR_RUNTIME__.updateRoutes(routes)
+  }
+  if (__VUE_HMR_RUNTIME__.updateRedirects) {
+    __VUE_HMR_RUNTIME__.updateRedirects(redirects)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ routes, redirects }) => {
+    __VUE_HMR_RUNTIME__.updateRoutes(routes)
+    __VUE_HMR_RUNTIME__.updateRedirects(redirects)
+  })
+}
