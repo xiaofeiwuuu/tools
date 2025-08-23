@@ -2,6 +2,10 @@ node_modules
 .pnpm-store
 .DS_Store
 
+# VuePress 临时文件和缓存
+docs/.vuepress/.temp/
+docs/.vuepress/.cache/
+
 # 视频文件
 *.mp4
 *.avi
